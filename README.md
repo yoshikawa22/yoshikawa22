@@ -4,10 +4,10 @@
 Formé puis formateur en développement web, mobile et Data & IA chez **Simplon Côte d'Ivoire**.
 Je conçois des applications qui mettent l'intelligence artificielle au service de besoins concrets.
 
-📂 **Portfolio :** https://yoshikawa22.github.io/portfolio/
-💼 **LinkedIn :** https://www.linkedin.com/in/mockey-brice-elie-attobrat-8899ba311/
-📫 **Contact :** attobratmockeybrice@gmail.com
-🟢 **Disponible dès janvier 2027** pour un poste de Développeur Web / Mobile ou Data / IA
+ **Portfolio :** https://yoshikawa22.github.io/portfolio/
+ **LinkedIn :** https://www.linkedin.com/in/mockey-brice-elie-attobrat-8899ba311/
+ **Contact :** attobratmockeybrice@gmail.com
+ **Disponible dès janvier 2027** pour un poste de Développeur Web / Mobile ou Data / IA
 
 ## 🚀 Projets phares
 
